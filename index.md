@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - file upload
   - cloud backup
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post describes a Python script to automate file uploads to Dropbox, including error handling
+  and API integration. Its focus on scripting for automating a repeated workflow best fits the
+  Automation family which targets automation scripts and deployment workflows.
 ---
 
 # project-dropbox-api: Technical Overview
@@ -59,3 +65,4 @@ For practical use, this script can be integrated into larger automation pipeline
 ## Summary
 
 This project serves as a foundational utility for Dropbox file uploads using Python. It demonstrates essential API usage patterns and error handling. Future iterations should focus on extensibility, usability, and security improvements to make it production-ready.
+

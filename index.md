@@ -1,12 +1,26 @@
 ---
-slug: "github-project-dropbox-api"
-title: "project-dropbox-api"
-repo: "justin-napolitano/project-dropbox-api"
-githubUrl: "https://github.com/justin-napolitano/project-dropbox-api"
-generatedAt: "2025-11-23T09:25:19.927837Z"
-source: "github-auto"
+slug: github-project-dropbox-api
+title: Python Script for Uploading Files to Dropbox via API
+repo: justin-napolitano/project-dropbox-api
+githubUrl: https://github.com/justin-napolitano/project-dropbox-api
+generatedAt: '2025-11-23T09:25:19.927837Z'
+source: github-auto
+summary: >-
+  Overview of a Python script using the Dropbox API to automate file uploads with error handling and
+  overwrite support.
+tags:
+  - python
+  - dropbox-api
+  - file-upload
+  - automation
+  - cloud-storage
+seoPrimaryKeyword: dropbox api
+seoSecondaryKeywords:
+  - python script
+  - file upload
+  - cloud backup
+seoOptimized: true
 ---
-
 
 # project-dropbox-api: Technical Overview
 

@@ -1,19 +1,27 @@
 ---
 slug: github-project-dropbox-api
 id: github-project-dropbox-api
-title: project-dropbox-api
+title: Dropbox API File Upload Utility in Python
 repo: justin-napolitano/project-dropbox-api
 githubUrl: https://github.com/justin-napolitano/project-dropbox-api
 generatedAt: '2025-11-24T21:35:56.100Z'
 source: github-auto
 summary: >-
-  A Python-based utility to upload files to Dropbox using the official Dropbox
-  API. This project provides a simple script to automate file backups to a
-  specified Dropbox path.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A Python utility for automating file uploads to Dropbox using the official
+  API, featuring error handling and easy configuration.
+tags:
+  - python
+  - dropbox
+  - api
+  - backup
+seoPrimaryKeyword: dropbox api file upload utility
+seoSecondaryKeywords:
+  - python dropbox sdk
+  - automate file backups
+  - error handling dropbox
+  - python file upload script
+  - dropbox access token
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
